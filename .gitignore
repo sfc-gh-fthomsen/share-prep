@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+output/
+*.tsbuildinfo
+.env*
+!.env.example
+.DS_Store
+coverage/
+screenshots/
+*.p8
+*.pem
+connections.toml
